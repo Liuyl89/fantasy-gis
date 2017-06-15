@@ -1,2 +1,2 @@
 # fmap
-FMap Project from GisUni
+fantasy-gis Project from GisUni
